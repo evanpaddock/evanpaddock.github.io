@@ -1,18 +1,7 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: sans-serif;
+.navbar-brand {
+  padding-left: 1em;
 }
-body{
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: rgb(29, 29, 29);
-  color: blanchedalmond;
-}
-h1{
-  font-size: 40px;
-  font-weight: 800;   
-}
+
+.search {
+  padding-right: 1em;
+}/*# sourceMappingURL=index.css.map */
