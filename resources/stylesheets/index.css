@@ -1,7 +1,15 @@
-.navbar-brand {
-  padding-left: 1em;
+.intro-text {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
-.search {
-  padding-right: 1em;
+img {
+  max-width: 40%;
+  height: auto;
+}
+
+p {
+  padding-left: 32em;
+  justify-content: center;
 }/*# sourceMappingURL=index.css.map */
